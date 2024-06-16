@@ -2806,7 +2806,7 @@ input, select, textarea {
 						text-decoration: none;
 					}
 
-						#header > nav ul li a.active {
+						#header > nav ul li a:hover {
 							background: #fff;
 							color: #4acaa8 !important;
 						}
