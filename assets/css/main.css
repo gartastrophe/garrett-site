@@ -1,10 +1,12 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Courier+Prime|Source+Code+Pro:400");
 
 /*
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	Modified by Garrett Compston for personal web use.
 */
 
 /*
@@ -104,7 +106,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Lato", sans-serif;
+		font-family: "Courier Prime", monospace;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
