@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Courier+Prime|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans|Source+Code+Pro:400");
 
 /*
 	Read Only by HTML5 UP
@@ -106,7 +106,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Courier Prime", monospace;
+		font-family: "Fira Sans", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
